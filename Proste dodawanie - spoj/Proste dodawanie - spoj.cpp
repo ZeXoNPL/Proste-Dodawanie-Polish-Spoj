@@ -1,4 +1,4 @@
-﻿//This code is prepare for pl.spoj.com
+//This code was prepare for pl.spoj.com
 //Problem ID 549
 //This code was approved by judge in 29.09.2022 7:14 PM 
 
